@@ -25,7 +25,7 @@
 ## 🎯 **شروع استفاده از پلخمون**
 
 📥 برای **دانلود و نصب پلخمون**، به بخش **ریلیزها** یا لینک زیر مراجعه کنید:  
-🔗 [دانلود پلخمون](https://github.com/plukhmon/Plukhmon/releases/latest)
+🔗 [دانلود پلخمون](https://github.com/plukhmon/Plukhmoon/releases/latest)
 
 ---
 

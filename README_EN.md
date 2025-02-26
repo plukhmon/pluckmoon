@@ -26,7 +26,7 @@
 ## 🎯 **Getting Started with Pluckmoon**
 
 📥 To **download and install Pluckmoon**, go to the **Releases** section or use the link below:  
-🔗 [Download Pluckmoon](https://github.com/plukhmon/Plukhmon/releases/latest)
+🔗 [Download Pluckmoon](https://github.com/plukhmon/Plukhmoon/releases/latest)
 
 ---
 
