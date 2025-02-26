@@ -2,7 +2,7 @@
 [English](/README_EN.md) | [فارسی](/README.md) | [中文](/README_CH.md)  [Русский](/README_RU.md)
 <div align="center">
   <a href="#">  
-    <img src="https://github.com/user-attachments/assets/f03afd6f-630b-4fa8-af58-42c7fc6feda2" width="200" height="200">  
+    <img src="assets/images/logo.png" width="200" height="200">  
   </a>  
 </div>
 
@@ -35,4 +35,7 @@
 ۲️⃣ در **تنظیمات گوشی**، اجازه نصب از منابع ناشناس را فعال کنید.  
 ۳️⃣ **برنامه را نصب و اجرا کنید**.  
 ۴️⃣ از اینترنت آزاد و بدون محدودیت لذت ببرید!  
+
+--- 
+<img src="screenshuts/Screenshot 2025-02-26.png" width="200" >  
 

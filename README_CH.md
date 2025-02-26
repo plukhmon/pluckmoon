@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="#">  
-    <img src="https://github.com/user-attachments/assets/f03afd6f-630b-4fa8-af58-42c7fc6feda2" width="200" height="200">  
+    <img src="assets/images/logo.png" width="200" height="200">  
   </a>  
 </div>
 
@@ -36,3 +36,6 @@
 2️⃣ 在 **手机设置** 中启用来自未知来源的安装权限。  
 3️⃣ **安装并打开** 应用程序。  
 4️⃣ 尽情享受自由和无限制的互联网！  
+ 
+--- 
+<img src="screenshuts/Screenshot 2025-02-26.png" width="200" >  

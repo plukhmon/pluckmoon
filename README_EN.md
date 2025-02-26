@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="#">  
-    <img src="https://github.com/user-attachments/assets/f03afd6f-630b-4fa8-af58-42c7fc6feda2" width="200" height="200">  
+    <img src="assets/images/logo.png" width="200" height="200">  
   </a>  
 </div>
 
@@ -36,3 +36,6 @@
 2️⃣ Enable the installation from unknown sources in your **phone settings**.  
 3️⃣ **Install and open** the app.  
 4️⃣ Enjoy free and unrestricted internet access!  
+
+--- 
+<img src="screenshuts/Screenshot 2025-02-26.png" width="200" >  

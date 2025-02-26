@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="#">  
-    <img src="https://github.com/user-attachments/assets/f03afd6f-630b-4fa8-af58-42c7fc6feda2" width="200" height="200">  
+    <img src="assets/images/logo.png" width="200" height="200">  
   </a>  
 </div>
 
@@ -36,3 +36,6 @@
 2️⃣ В **настройках телефона** разрешите установку из неизвестных источников.  
 3️⃣ **Установите и откройте** приложение.  
 4️⃣ Наслаждайтесь свободным и неограниченным интернетом!  
+
+--- 
+<img src="screenshuts/Screenshot 2025-02-26.png" width="200" >  
