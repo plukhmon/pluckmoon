@@ -1,0 +1,124 @@
+{
+  "name": "AppIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "ca150bc10f3a816413c7687c59dbe118",
+      "css": "home",
+      "code": 59392,
+      "src": "material"
+    },
+    {
+      "uid": "197375a3cea8cb90b02d06e4ddf1433d",
+      "css": "globe",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2cb15eb2b295ee3c33fab1530e18a924",
+      "css": "bitcoin",
+      "code": 61786,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7e4164950ffa4990961958b2d6318658",
+      "css": "info-circled",
+      "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "414fe97e4af5215a06d29be0f2cecdf5",
+      "css": "network",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "5211af474d3a9848f67f945e2ccaf143",
+      "css": "cancel",
+      "code": 59396,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e9f1a462968111eab72aacfdce5a3d9f",
+      "css": "shield-lock",
+      "code": 62238,
+      "src": "octicons"
+    },
+    {
+      "uid": "e9f1a482968111eab72aacfdce5a3d9f",
+      "css": "shield-check",
+      "code": 62270,
+      "src": "octicons"
+    },
+    {
+      "uid": "e9f1a485968111eab72aacfdce5a3d9f",
+      "css": "shield-x",
+      "code": 62273,
+      "src": "octicons"
+    },
+    {
+      "uid": "0a82f69b150931470de9ca918183dc7d",
+      "css": "power_off",
+      "code": 61457,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "a73c5deb486c8d66249811642e5d719a",
+      "css": "arrows-cw",
+      "code": 59397,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "fbe68d7dc6bba1c73e5cdfdbeeddfa7c",
+      "css": "exclamation_circle",
+      "code": 61546,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "e9f1a50c968111eab72aacfdce5a3d9f",
+      "css": "person",
+      "code": 62408,
+      "src": "octicons"
+    },
+    {
+      "uid": "c91e021561eef67ea7a6f07743d7a664",
+      "css": "user",
+      "code": 61447,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "de01e2d3a82c798241ae358a9484f231",
+      "css": "handshake",
+      "code": 62133,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "e9f1a4fe968111eab72aacfdce5a3d9f",
+      "css": "chevron-down",
+      "code": 62394,
+      "src": "octicons"
+    },
+    {
+      "uid": "e9f1a494968111eab72aacfdce5a3d9f",
+      "css": "chevron-up",
+      "code": 62288,
+      "src": "octicons"
+    },
+    {
+      "uid": "67e0037d2f325a9b04652dc07cf90c1e",
+      "css": "tachometer_alt",
+      "code": 62461,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "7bf14281af5633a597f85b061ef1cfb9",
+      "css": "angle-right",
+      "code": 61701,
+      "src": "fontawesome"
+    }
+  ]
+}

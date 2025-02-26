@@ -1,0 +1,8 @@
+# dart run icons_launcher:create
+
+icons_launcher:
+  image_path: "assets/images/logo.png"
+  notification_image: "assets/images/logo.png"
+  platforms:
+    android:
+      enable: true
